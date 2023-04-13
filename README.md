@@ -7,6 +7,7 @@ With this repo you'll be able to mask aadhaar number from aadhaar document aadha
  - GPU Enabled Machine(Not required but time to generate an output may varry depending on system)
  - PIP to be on latest version in order to install requirenment file 
  - You can use main module anywhere in your project
+ - Please download model file (sorry but models are large in size so uploaded seperately on gdrive) and extract in root of directory
 
 ### Installation Guide
 ```bash
