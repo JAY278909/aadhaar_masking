@@ -13,7 +13,7 @@ With this repo you'll be able to mask aadhaar number from aadhaar document aadha
 ```bash
 pip3 install -r /path/to/req2.txt
 ```
-# Model File Path
+### Model File Path
 ```
 https://drive.google.com/file/d/1CpL9CHHebbT8ikIN64NkTinSzfyORf8J/view?usp=share_link
 ```
